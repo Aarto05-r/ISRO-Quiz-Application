@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Where is the Headquarters of the Indian Space Research Organisation (ISRO)?",
+        "2": "When was ISRO formed?",
+        "3": "Who is the Owner of the Indian Space Research Organisation?",
+        "4": "Which Satellite is responsible for Communication, Meteorological Services, and Television Broadcasting in India?",
+        "5": "When was the First Rocket launched from India?",
+        "6": "What was ISRO known before 1969?",
+        "7": " Who is the Father of the Indian Space Program?",
+        "8": "When was Chandrayaan-1 launched?",
+        "9": "Name the First Satellite built by India?",
+        "10": "Who is known as the Missile Man of India?"
+    },
+    {
+        "1": { 
+            "a": "Pune",
+            "b": "Bangalore",
+            "c": "Lucknow",
+            "d": "Mumbai"
+        },
+        "2": {
+            "a": "15 August 1947",
+            "b": "15 August 1952",
+            "c": "15 August 1969",
+            "d": "15 August 1967"
+        },
+        "3": {
+            "a": "Department of Space",
+            "b": "Department of State",
+            "c": "Distributed Operating Space",
+            "d": "Dioctyl Sebacate"
+        },
+        "4": {
+            "a": " IRS",
+            "b": "INSATTP",
+            "c": "INPUT",
+            "d": "INSAT"
+        },
+        "5": {
+            "a": "21 December 1963",
+            "b": "21 October 1963",
+            "c": "21 November 1964",
+            "d": "21 November 1963"
+        },
+        "6": {
+            "a": "INCOSPAR",
+            "b": "ACROSS",
+            "c": "DAE",
+            "d": "INSA"
+        },
+        "7": {
+            "a": "C. V. Raman",
+            "b": "Vikram Sarabhai",
+            "c": "M. G. K. Menon",
+            "d": "A. P. J. Abdul Kalam"
+        },
+        "8": {
+            "a": "22 October 2018",
+            "b": "22 October 2006",
+            "c": "22 October 2008",
+            "d": "22 October 2010"
+        },
+        "9": {
+            "a": "Rohini RS-1",
+            "b": " Aryabhata",
+            "c": "Chandrayaan-1",
+            "d": " SPADEX"
+        },
+        "10": {
+            "a": "Satyendra Nath Bose",
+            "b": "Vikram Sarabhai",
+            "c": "C.V. Raman",
+            "d": "A. P. J. Abdul Kalam"
+        }
+    },
+    {
+        "1": "Bangalore",
+        "2": "15 August 1969",
+        "3": "Satish Dhawan Space Centre",
+        "4": "Department of Space",
+        "5": "21 November 1963",
+        "6": "INCOSPAR",
+        "7": "Vikram Sarabhai",
+        "8": "22 October 2008",
+        "9": "Aryabhata",
+        "10": " A. P. J. Abdul Kalam"
+    }
+]
